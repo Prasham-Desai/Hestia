@@ -56,6 +56,7 @@ __pycache__/
 
 # Virtual environments
 venv/
+Group Project/venv/
 env/
 ENV/
 .env/
